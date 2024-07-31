@@ -1,4 +1,5 @@
-    {
+{
+      {
       "locationId": 3459,
       "location": "Embassy Kathmandu",
       "parameter": "pm25",
@@ -91810,3 +91811,5 @@
       "entity": "Private Organization",
       "sensorType": "low-cost sensor"
     }
+
+}
