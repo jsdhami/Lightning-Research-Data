@@ -1,22 +1,3 @@
--BEGIN HEADER-
-NASA/POWER CERES/MERRA2 Native Resolution Hourly Data 
-Dates (month/day/year): 05/01/2024 through 08/01/2024 
-Location: Latitude  27.7178   Longitude 85.3112 
-Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 776.63 meters
-The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
-Parameter(s): 
-T2M        MERRA-2 Temperature at 2 Meters (C) 
-T2MDEW     MERRA-2 Dew/Frost Point at 2 Meters (C) 
-QV2M       MERRA-2 Specific Humidity at 2 Meters (g/kg) 
-RH2M       MERRA-2 Relative Humidity at 2 Meters (%) 
-PS         MERRA-2 Surface Pressure (kPa) 
-WS10M      MERRA-2 Wind Speed at 10 Meters (m/s) 
-WD10M      MERRA-2 Wind Direction at 10 Meters (Degrees) 
-PSC        MERRA-2 Corrected Atmospheric Pressure (Adjusted For Site Elevation) (kPa) 
-WSC        MERRA-2 Corrected Wind Speed (Adjusted For Elevation) (m/s) 
-Message(s): 
-Corrected Wind Speed has a custom surface implemented: 20-m broadleaf-deciduous trees (75% coverage) (vegtype_2) 
--END HEADER-
 YEAR,MO,DY,HR,T2M,T2MDEW,QV2M,RH2M,PS,WS10M,WD10M,PSC,WSC
 2024,5,1,0,23.85,1.64,4.7,23.38,91.67,1.24,303.99,93.39,1.97
 2024,5,1,1,23.52,1.25,4.58,23.19,91.63,1.02,317.17,93.35,1.51
